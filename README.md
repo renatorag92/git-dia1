@@ -1,3 +1,2 @@
 Meu primeiro repositório git
-Aprendendo git no Linix
-:)
+Aprendendo git no Linux
